@@ -3,7 +3,7 @@
 
 int main() {
   int time = 20;
-  if (time < 18) {
+  if (time < 17) {
     printf("Good day.");
   } else {
     printf("Good evening.");
