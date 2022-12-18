@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int maind() {
+int main() {
 	int age = 25;
 	printf("%d", age);
 	return 0;
